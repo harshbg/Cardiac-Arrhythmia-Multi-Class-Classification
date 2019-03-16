@@ -1,5 +1,6 @@
 # Cardiac Arrhythmia Multi Class Classification
 > The study aims to correctly classify 15 different types of cardiac arrhythmia. The project was done as part of Machine Learning class at the University of Texas at Dallas.
+
 The entire summary of the project can be found in the [Jupyter Notebook](https://github.com/harshbg/Cardiac-Arrhythmia-Multi-Class-Classification/blob/master/Cardiac%20Arrhythmia%20Multi-Class%20Classification.ipynb)
 
 ## Table of contents
