@@ -25,7 +25,7 @@ among which one class represents absence of disease and the other fifteen classe
 ## Setup
 
 The dataset used and its metadata can be found [here](https://github.com/harshbg/Cardiac-Arrhythmia-Multi-Class-Classification/tree/master/Data). The jupyter notebook can be downloaded [here](https://github.com/harshbg/Cardiac-Arrhythmia-Multi-Class-Classification/blob/master/Cardiac%20Arrhythmia%20Multi-Class%20Classification.ipynb) and can be used to reproduce the result. Installation of TensorFlow would be required to run all the models. 
-You can find the instructions to install TensorFlow[here](https://www.tensorflow.org/install/pip).
+You can find the instructions to install TensorFlow [here](https://www.tensorflow.org/install/pip).
 
 ## Process
 
@@ -102,5 +102,4 @@ Project is:  _finished_
 ## Contact
 
 Created by me and my teammate [Siddharth Oza](https://github.com/siddharthoza).
-
-Feel free to contact me! My other projects can be found [here](http://www.gupta-harsh.com/projects/)
+Feel free to contact me! My other projects can be found [here](http://www.gupta-harsh.com/projects/).
