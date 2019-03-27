@@ -15,7 +15,7 @@ The entire summary of the project can be found in the [Jupyter Notebook](https:/
 
 ## General info
 This study is conducted to classify patients into one of the sixteen subclasses, 
-among which one class represents absence of disease and the other fifteen classes represent electrocardiogram records of various subtypes of arrhythmias.
+among which one class represents the absence of disease and the other fifteen classes represent electrocardiogram records of various subtypes of arrhythmias.
 
 
 ## Technologies
@@ -30,7 +30,7 @@ You can find the instructions to install TensorFlow [here](https://www.tensorflo
 ## Process
 
 * As it is a huge dataset with nearly 280 variables first I performed feature selection technique to identify the important variables impacting the prediction. 
-* I used various machine learning models like KNN, logistic regression, random forest, decision tree, linear & kernalised SVM and compared the precision and recall of the mentioned models. 
+* I used various machine learning models like KNN, logistic regression, random forest, decision tree, linear & kernelized SVM and compared the precision and recall of the mentioned models. 
 * To improve the accuracy of the models I used bagging and boosting and evaluated the performance of these models.
 * As the data file had 280 variables, I used PCA to improve accuracy.
 
@@ -94,7 +94,7 @@ print(grid_search_knn.best_score_)
 ````
 
 ## Features
-* We were able to improve the classification accuracy, and classify the type of cardiac arrhythmia with 75% accuracy. 
+* We were able to improve the classification accuracy and classify the type of cardiac arrhythmia with 75% accuracy. 
 
 ## Status
 Project is:  _finished_
@@ -102,4 +102,7 @@ Project is:  _finished_
 ## Contact
 
 Created by me and my teammate [Siddharth Oza](https://github.com/siddharthoza).
-Feel free to contact me! My other projects can be found [here](http://www.gupta-harsh.com/projects/).
+
+If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
+just want to shoot a question, please feel free to connect with me on <a href="hello@gupta-harsh.com" target="_blank">email</a>, <a href="https://www.linkedin.com/in/harshbg/" target="_blank">LinkedIn</a>, or <a href="https://twitter.com/harshbg" target="_blank">Twitter</a>. 
+My other projects can be found [here](http://www.gupta-harsh.com/projects/).
