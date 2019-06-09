@@ -1,3 +1,6 @@
+[![Language](https://img.shields.io/badge/Made%20with-Python%20and%20Machine%20Learning-blue.svg)](#technologies-and-tools)
+![HitCount](http://hits.dwyl.io/harshbg/Cardiac-Arrhythmia-Multi-Class-Classification.svg)
+
 # Cardiac Arrhythmia Multi Class Classification
 > The study aims to correctly classify 15 different types of cardiac arrhythmia. The project was done as part of Machine Learning class at the University of Texas at Dallas.
 
